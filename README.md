@@ -3,7 +3,7 @@ DESCRIPTION
 
 Use Excel to analyze the sales based on various product categories.
 
-![Alt text]([/posts/path/to/img.jpg "Optional title"](https://github.com/shrpadma2/Bike_Sales_Dashboard_Excel/blob/main/Bike_Sales_Dashboard.JPG))
+![Dashboard Screenshot](Bike_Sales_Dashboard.JPG)
 
 Description:
 
