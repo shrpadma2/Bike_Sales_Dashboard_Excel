@@ -1,7 +1,7 @@
 # EXCEL-DASHBOARD
 DESCRIPTION
 
-Use Excel to analyze the sales based on various product categories.
+This repository contains an excel project that analyzes and visualizes bike sales data using Excel. The analysis includes trends and patterns in the data, as well as the creation of interactive charts and graphs to help understand and communicate the insights derived from the data all presented in a dashboard.
 
 ![Dashboard Screenshot](Bike_Sales_Dashboard.JPG)
 
